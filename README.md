@@ -1,8 +1,8 @@
 # Huffman-Coding
 
 ```
-Green Line: 1
 Red Line: 0
+Green Line: 1
 ```
 
 ```
