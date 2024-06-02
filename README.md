@@ -1,6 +1,11 @@
 # Huffman-Coding
 
 ```
+Green Line: 1
+Red Line: 0
+```
+
+```
 Input: JustTestInputJustForTesting
 Huffman Codes:
 "t": 11       
